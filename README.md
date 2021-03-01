@@ -1,5 +1,5 @@
 This theme was originally based on the SB Admin 2 theme. 
-The bulk of the work in converting it was done by Sneakypeet on Discord. 
+The bulk of the work in converting it was done by Sneakypeet. 
 
 As the User menu is hard coded in the top right, you do not need them in the side menu. 
 To hide the User dropdown and link to the User, create a new permission group. Go into Navigation and Allow only that permission group to see it for the dropdown and the {{username}}.
